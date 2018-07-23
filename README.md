@@ -1,2 +1,2 @@
-# Programa para el Registrar Estudiantes
+# Programa para el Registro de Estudiantes
 
